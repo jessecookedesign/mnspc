@@ -1,0 +1,258 @@
+/* Main Nav */
+
+@media only screen and (max-width: 600px) {
+.header-title-logo {
+  content: url(https://static1.squarespace.com/static/5e3f3e62dac550223da35348/t/5e65cc1d9369fa0953307932/1583729693805/mnspc_logo_mobile_light.png);
+  width: 50%;
+}
+}
+
+.header-nav a{
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Niveau Grotesk', sans-serif;
+}
+
+.header-nav a:hover{
+  color: #fb6e4d!important;
+}
+
+.header-actions .sqs-block-button-element, .image-button a, .header-actions .btn, .header-menu-cta a{
+  color: #fff;
+  background: transparent;
+  border: 2px solid #fb6e4d;
+  font-weight: bold;
+  padding: 14px 30px 14px 30px;
+}
+
+/* FOOTER */
+
+footer img{
+  width: auto;
+  height: auto!important;
+  width: 70%!important;
+}
+
+/* Homepage Section 1 */
+
+#page-section-5e3f3e7ed8d2da072e61d920 a{
+  color: #fff;
+  background-color: #fb6e4d;
+  font-weight: bold;
+  padding: 14px 30px 14px 30px;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d920 a:hover{
+  background-color: #ff8048;
+  transition: 0.7s;
+  transform:translateY(-6px);
+  opacity: 1;
+  box-shadow: 0px 6px 5px rgba(0,0,0,0.2);
+}
+
+#page-section-5e3f3e7ed8d2da072e61d920 h1{
+  line-height: 0.7;
+  font-size: 4em;
+  font-family: Moret, serif;
+  letter-spacing: -1px;
+  color: #2d3a3a;
+}
+
+/* Homepage Section 02 */
+
+#page-section-5e4b568ba78e4d69b8aae8d0 h3 {
+  color: #2d3a3a;
+  font-family: 'Niveau Grotesk', sans-serif;
+  font-size: 20px;
+}
+
+#page-section-5e4b568ba78e4d69b8aae8d0 p {
+  color: #333333;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Homepage Section 03 */
+
+#page-section-5e3f3e7ed8d2da072e61d922 h2 {
+	font-family: Moret, serif;
+	color: #2d3a3a;
+	font-size: 48px;
+}
+
+#hp_list_container_left {
+  text-align: center;
+  @media only screen and (max-width: 600px) {
+  border: none;
+    text-align: left;
+  }
+}
+
+#hp_list_container_right {
+  text-align: center;
+  border-left: 3px solid white;
+  @media only screen and (max-width: 600px) {
+  border: none;
+    text-align: left;
+  }
+}
+
+/* Homepage - Section 4 */
+
+
+/* Homepage Section - Reviews */
+
+.sqs-block-image .image-block-outer-wrapper.image-block-v2 .image-subtitle *:last-child{
+  color: #2d3a3a;
+  font-family: 'Niveau Grotesk', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d926 .sqsrte-large {
+  color: #333333;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d926 .image-overlay{
+  display: none;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d926 .sqs-block-image .image-block-outer-wrapper.image-block-v2 .intrinsic img{
+  width: 60px!important;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d926 .col {
+  background-color: #fff;
+  outline: 20px solid #F7F6F5;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d926 .sqs-block {
+  padding: 60px 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  #page-section-5e3f3e7ed8d2da072e61d926 .col {
+  outline: none;
+    margin: 10px;
+}
+}
+
+/* Homepage Section - Too many options */
+
+#page-section-5e5aca2e17c29a501a1f3860 a{
+  background: transparent;
+  border: 2px solid #fb6e4d;
+  font-weight: bold;
+  padding: 14px 30px 14px 30px;
+}
+
+#page-section-5e5aca2e17c29a501a1f3860 a:hover{
+  background-color: #ff8048;
+  transition: 0.7s;
+  transform:translateY(-4px);
+  opacity: 1;
+  box-shadow: 0px 6px 5px rgba(0,0,0,0.1);
+}
+
+#page-section-5e5aca2e17c29a501a1f3860 h1{
+  line-height: 0.5;
+  font-family: Moret, serif;
+  letter-spacing: -1px;
+  color: #2d3a3a;
+}
+
+#page-section-5e5aca2e17c29a501a1f3860 p{
+  font-family: 'Niveau Grotesk', sans-serif;
+  font-weight: 500;
+  color: #2d3a3a;
+}
+
+/* Homepage Section - Need art */
+
+#page-section-5e3f3e7ed8d2da072e61d928 a{
+  color: #fff;
+  background-color: #fb6e4d;
+  font-weight: bold;
+  padding: 14px 30px 14px 30px;
+}
+
+#page-section-5e3f3e7ed8d2da072e61d928 a:hover{
+  background-color: #ff8048;
+  transition: 0.7s;
+  transform:translateY(-6px);
+  opacity: 1;
+  box-shadow: 0px 6px 5px rgba(0,0,0,0.2);
+}
+
+#page-section-5e3f3e7ed8d2da072e61d928 h2{
+  font-size: 3em;
+  line-height: 1;
+  font-family: Moret, serif;
+  letter-spacing: -1px;
+  color: #f8ead9;
+}
+
+/* ABOUT PAGE */
+
+/* about - section 1 */
+
+#about-section1-area0 h1{
+  font-family: 'Moret', serif;
+  line-height: 1;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+#about-section1-area1 {
+  vertical-align: middle;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#about-section1-area1 img {
+  vertical-align: middle;
+  padding: 0px 10px;
+  text-align: center;
+  margin: 0 auto;
+  width: 30%;
+  @media only screen and (max-width: 600px) {
+    width: 90%;
+    padding: 10px 0px;
+  }
+}
+
+#about-section1-area2 p {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 1.2em;
+  font-family: 'Niveau Grotesk', sans-serif;
+  @media only screen and (max-width: 600px) {
+    width: 90%;
+  }
+}
+
+/* about - section 2 */
+
+#page-section-5e647a2e8edf432203017f0e h2{
+  font-family: 'Moret', serif;
+  color: #2d3a3a;
+}
+
+#page-section-5e647a2e8edf432203017f0e figure {
+  background-color: #fff;
+  padding: 40px;
+}
+
+#page-section-5e647a2e8edf432203017f0e blockquote {
+  font-size: 1.1em;
+}
+
+#page-section-5e647a2e8edf432203017f0e figcaption {
+  margin-top: 20px;
+  color: #fb6e4d;
+  font-weight: bold;
+}
